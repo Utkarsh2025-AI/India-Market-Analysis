@@ -1,5 +1,18 @@
 # Market Analysis
 
+## Key Results
+
+ Result | Value |
+ Japanese Dataset | 40,000 customers |
+ Indian Dataset | 70,000 customers |
+ Model | Logistic Regression |
+ Test Accuracy | 61.33% |
+ F1 Score | 71.90% |
+ ROC-AUC | 60.45% |
+ Estimated Indian Potential Customers | 69,946 |
+ Estimated Potential Customer Rate | 99.92% |
+ Annual Sales Target | 12,000 cars |
+
 ## Project Overview
 
 This project evaluates the potential of the Indian automobile market using customer-level data.
