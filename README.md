@@ -227,3 +227,7 @@ The dashboard provides a visual comparison of customer characteristics and purch
 The analysis indicates that the Indian customer dataset contains a potentially large customer pool according to the trained classification model, and the estimated pool exceeds the target of 12,000 annual sales.
 
 The project combines **data analysis, machine learning, statistical interpretation, and business visualization** to support an initial assessment of the Indian automobile market.
+
+## Tableau Dashboard
+
+![Market Analysis Dashboard](Market%20Analysis%20dashboard.png)
